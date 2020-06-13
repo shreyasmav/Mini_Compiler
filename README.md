@@ -1,4 +1,4 @@
-# Compiler_Design
+# Mini_Compiler
 Implementation of C compiler.
 
 Home/Project_code/Phase1/... 
